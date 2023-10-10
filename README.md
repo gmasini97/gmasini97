@@ -1,4 +1,10 @@
-### Hi there 👋
+>*Your chances of being killed by a pigeon are low, but never zero*
+
+### 🐦
+
+Hello, I'm a developer from Italy, currently attending a master's degree in computer science and engineering at Politecnico di Milano.
+
+I'm interested in embedded programming, system administration, electronics and music.
 
 <!--
 **gmasini97/gmasini97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
